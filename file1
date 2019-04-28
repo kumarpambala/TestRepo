@@ -1,0 +1,5 @@
+What is GIT cherry pick?
+
+Cherry picking in Git is designed to apply some of the commits from one branch to another branch. It can be done if we made a mistakes/ code fix changes and committed achanges into branch. 
+Sometimes you don't want to merge a whole branch into another, and only need to pick one or two specific commits. This process is called 'cherry picking'.
+
